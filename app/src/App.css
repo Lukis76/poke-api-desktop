@@ -1,0 +1,19 @@
+
+.content-root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background: choc;
+  /* background: url("public/trainerbattles.0.jpg"); */
+  /* background-attachment: fixed; */
+  background-size: cover;
+  background-position: center;
+  background-position-x: -2rem;
+  background-position-y: -12rem;
+  background-repeat: no-repeat;
+  
+}
